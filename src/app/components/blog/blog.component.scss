@@ -74,28 +74,6 @@ a:hover {
 }
 
 
-/*** Start Slider Section ***/
-.slider {
-  height: 350px;
-  background: linear-gradient(to right, rgba(16,26,48,0.7) 0%, rgba(16,26,48,0.7) 12%, #101a31 91%, #101a31 100%),url('../images/h1_hero.png');
-  background-size: cover;
-  position: relative;
-  margin-bottom: 100px;
-}
-.slider h1 {
-  font-size: 60px;
-  color: #fff;
-  font-weight: 600;
-  margin-left:20px;
-  margin-top: 20px;
-}
-.hero-img {
-  position: absolute;
-  bottom: 0;
-}
-
-/**** End Slider Section ***/
-
 /*** Start All Body content section ****/
 /**** 1- left side ***/
 .card {
